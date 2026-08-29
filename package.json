@@ -1,0 +1,6 @@
+{
+  "name": "tool-core87",
+  "version": "1.7.9",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
